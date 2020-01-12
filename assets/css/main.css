@@ -3832,3 +3832,7 @@ input, select, textarea {
 		width: 100%;
 	}
 }
+
+.special {
+	text-align: center;
+}
